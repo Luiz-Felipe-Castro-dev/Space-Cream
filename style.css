@@ -5,10 +5,7 @@
 
 
 }
-* {
-  outline: 1px solid #f00;
 
-}
 :root {
   font-size: 62.5%;
   --ff-body: 'Staatliches';
@@ -28,7 +25,7 @@ body{
   background-color: var(--page-background);
   display: flex;
   flex-direction: column;
-  width: 90vw;
+  width: 100vw;
 
 
 }
