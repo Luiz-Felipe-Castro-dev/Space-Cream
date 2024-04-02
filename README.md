@@ -1,4 +1,4 @@
-# sem_3_des_3
+# Space Cream
 
 projeto do curso explorer do rocket seat mostrando conceitos básicos de programação web
 
